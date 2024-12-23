@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 To set up follow the steps:
 
 Step 1: Clone the Repository
-git clone <repository_url> cd <repository_folder_name>
+``git clone <repository_url> cd <repository_folder_name>``
 
 Step 2: Create a Vite React App
 npm create vite@latest my-first-react-app -- --template react
